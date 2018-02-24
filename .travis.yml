@@ -1,6 +1,6 @@
 language: bash
 before_script:
-cd $Unix-Programming/Project1
+cd Project1
 
 before_install:
   - chmod +x remove.sh
