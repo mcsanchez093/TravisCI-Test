@@ -1,6 +1,4 @@
 language: bash
-before_script:
-cd Project1
 
 before_install:
   - chmod +x remove.sh
